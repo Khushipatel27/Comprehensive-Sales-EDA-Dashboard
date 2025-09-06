@@ -103,7 +103,7 @@ The Superstore dataset contains **9,994 records** with columns such as:
 
 ## Run the dashboard
 ```
-streamlit run dashboard.py
+streamlit run app1.py
 ```
 
 
